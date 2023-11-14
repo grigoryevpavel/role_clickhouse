@@ -22,6 +22,11 @@ How to use role
     roles:
         - { role: clickhouse-role }
 
+How to install in subfolder **roles** of current project folder
+---------------
+
+ansible-galaxy role install --roles-path ./roles git+https://github.com/grigoryevpavel/roles-clickhouse.git
+
 License
 -------
 
