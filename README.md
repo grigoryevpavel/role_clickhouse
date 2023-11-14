@@ -1,7 +1,7 @@
 Role Name
 =========
 
-Clickhouse-role
+roles-clickhouse
 
 Requirements
 ------------
@@ -20,7 +20,7 @@ How to use role
  
   - hosts: servers
     roles:
-        - { role: clickhouse-role }
+        - { role: roles-clickhouse }
 
 How to install in subfolder **roles** of current project folder
 ---------------
