@@ -3,7 +3,7 @@ Role Name
 
 roles-clickhouse
 
-Requirements
+Description
 ------------
 
 Installs clickhouse server and creates database logs if it did not exist. Contains server and client of clickhouse.
