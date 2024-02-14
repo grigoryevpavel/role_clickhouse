@@ -1,5 +1,6 @@
-galaxy_info:
-  role_name: roles-clickhouse
+galaxy_info: 
+  role_name: role_clickhouse
+  namespace: grigoryevpavel
   author: Grigoryev Pavel
   description: Clickhouse role
   company: Grigoryev
