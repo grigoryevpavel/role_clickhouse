@@ -8,6 +8,10 @@ Description
 
 Installs clickhouse server and creates database logs if it did not exist. Contains server and client of clickhouse.
 
+Requirements
+------------
+Servers should be set in inventory host group with name "clickhouse" 
+
 Role Variables
 --------------
 
